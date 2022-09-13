@@ -5,5 +5,5 @@ int main()
 {
 	printf("Enter a number:");
 	scanf("%d", &x);
-	printf("%d", d+1);
+	printf("%d", x+1);
 }
